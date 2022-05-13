@@ -27,8 +27,8 @@
 12- Type Script<br>
 13- React<br>
 14- Deploy Netlify (CI/CD)<br>
-15- CSS (BootStrap)
-16- HTML5
+15- CSS (BootStrap)<br>
+16- HTML5<br>
 </p>
 
 Obrigado #devsuperior
