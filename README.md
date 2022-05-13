@@ -26,7 +26,7 @@
 11- Java Script<br>
 12- Type Script<br>
 13- React<br>
-14- Deploy Netlify<br>
+14- Deploy Netlify (CI/CD)<br>
 </p>
 
 Obrigado #devsuperior
