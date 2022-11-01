@@ -31,8 +31,6 @@
 16- HTML5<br>
 </p>
 
-Obrigado #devsuperior
-
 <a href="https://fabiano-dsmovie.netlify.app/"><h6>Veja o Sistema</h6><a/>
 
 ![image](https://user-images.githubusercontent.com/67827573/168340913-a2a48fe7-e985-49bb-97c1-fa6e8a185a12.png)
